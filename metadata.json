@@ -1,0 +1,7 @@
+{
+  "name": "MagicBook AI",
+  "description": "An AI-powered children's storybook generator that creates beautiful illustrated books with character consistency and a virtual flipbook reader.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
